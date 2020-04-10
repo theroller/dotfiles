@@ -1,0 +1,12 @@
+[core]
+    autocrlf = false
+    filemode = false
+[i18n]
+    filesEncoding = utf-8
+[user]
+    name = James Roller, Jr.
+    email = og.readmore@gmail.com
+[url "https://"]
+    insteadOf = git://
+[pull]
+    rebase = false
