@@ -6,7 +6,7 @@
 [user]
     name = James Roller, Jr.
     email = og.readmore@gmail.com
-[url "https://"]
-    insteadOf = git://
+[url "ssh://git@github.com/"]
+    insteadOf = https://github.com/
 [pull]
     rebase = false
