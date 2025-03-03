@@ -1,11 +1,10 @@
 [core]
     autocrlf = false
-    excludesfile = '.DS_Store'
     filemode = false
 [i18n]
     filesEncoding = utf-8
 [includeIf "hasconfig:remote.*.url:git@github.com"]
-    path = ~/.gitconfig-ssh
+    path = config-ssh
 [init]
     defaultBranch = main
 [pull]
