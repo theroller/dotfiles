@@ -1,5 +1,6 @@
 [core]
     autocrlf = false
+    excludesfile = '.DS_Store'
     filemode = false
 [i18n]
     filesEncoding = utf-8
@@ -12,4 +13,3 @@
 [user]
     name = James Roller, Jr.
     email = og.readmore@gmail.com
-ß
