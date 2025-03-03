@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-stow .
+stow --target=$HOME git
+stow --ignore=git .
